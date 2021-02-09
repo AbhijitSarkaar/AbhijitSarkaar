@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working at Embibe as a SDE Frontend. Building the core Content Management System of Embibe.
+- 🔭  I’m currently working as a SDE Frontend at Embibe. Using React and Redux to build the core CMS of Embibe.
