@@ -1,3 +1,3 @@
 ### Hi there 👋
 
--  I’m currently working as a SDE Frontend at Embibe. Using React and Redux to build the core CMS of Embibe.
+-  I’m currently working as a Software Engineer at Embibe. Using React and Redux to build the core CMS of Embibe.
